@@ -1,0 +1,5 @@
+# nodeモジュールはなし
+node_modules/*
+
+# logなし
+*.log
